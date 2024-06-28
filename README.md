@@ -22,23 +22,25 @@ I'm **Kabir**. I recently graduated from Monash University with a Bachelor's in 
 
 ### Non coding tools that I have experience with
 [![Languages](https://skillicons.dev/icons?i=blender,ae,ai,pr,ps,figma,discord,notion)](https://skillicons.dev)
-<!---
+
 ---
 #### ✅ SOME OF MY PROJECTS:
 
 <p style="display:flex">
-    <a href="https://github.com/phanison898/linked-in-clone">
-        <img width=240 src="https://media.giphy.com/media/PTQn2S6X7XtsPD6j5j/giphy.gif" />
+    <a href="https://github.com/Kabir1240/Unity-Brackeys-Cube-Game-Tutorial">
+        <img width=240 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamswY3gyODRkbms2Z3BmNWJ1ZGV1MXNhcnNhYXkzZHRhdGR3dnVyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7xKeaNHHNauOfmA0D/giphy.gif" />
     </a>
-    <a href="https://github.com/phanison898/facebook-clone">
-        <img width=240 src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
+    <a href="https://github.com/Kabir1240/Unity-Course-Section-5-Tilevania">
+        <img width=240 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlyeHQ3Y3ZzMWkzZ3JpaHRtZ3dvc2k1eTY5czJubHBzMWc3aGx6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tbPB21DeKOspAChN6y/giphy-downsized-large.gif" />
+    </a>" />
     </a>
-
+    <a href="https://github.com/Kabir1240/Unity-Course-Section-4-Quiz-Master">
+        <img width=240 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI2cXZmYjcyNjNoZTA1a3FneGRnaXpvZnJ4MjZ4ODh0MHk0eGd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbgpCmvIq2o4UzAGE0/giphy.gif" />
+    </a>
 </p>
---->
+
 #### 📈 TOP MOST PROJECTS
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=Unity-Brackeys-Cube-Game-Tutorial&theme=dark)](https://github.com/Kabir1240/Unity-Brackeys-Cube-Game-Tutorial)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=Unity-Course-Section-5-Tilevania&theme=dark)](https://github.com/Kabir1240/Unity-Course-Section-5-Tilevania)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=Password-Manager&theme=dark)](https://github.com/Kabir1240/Password-Manager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=FlashCardApp&theme=dark)](https://github.com/Kabir1240/FlashCardApp)
