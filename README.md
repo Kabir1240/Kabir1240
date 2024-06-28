@@ -32,7 +32,7 @@ I'm **Kabir**. I recently graduated from Monash University with a Bachelor's in 
     </a>
     <a href="https://github.com/Kabir1240/Unity-Course-Section-5-Tilevania">
         <img width=240 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlyeHQ3Y3ZzMWkzZ3JpaHRtZ3dvc2k1eTY5czJubHBzMWc3aGx6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tbPB21DeKOspAChN6y/giphy-downsized-large.gif" />
-    </a>" />
+    </a>
     </a>
     <a href="https://github.com/Kabir1240/Unity-Course-Section-4-Quiz-Master">
         <img width=240 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI2cXZmYjcyNjNoZTA1a3FneGRnaXpvZnJ4MjZ4ODh0MHk0eGd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbgpCmvIq2o4UzAGE0/giphy.gif" />
