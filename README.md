@@ -42,9 +42,9 @@ I'm **Kabir**. I recently graduated from Monash University with a Bachelor's in 
 #### 📈 TOP MOST PROJECTS
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=Password-Manager&theme=dark)](https://github.com/Kabir1240/Password-Manager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=TriviaApp&theme=dark)](https://github.com/Kabir1240/TriviaApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=FlashCardApp&theme=dark)](https://github.com/Kabir1240/FlashCardApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=RainCheck&theme=dark)](https://github.com/Kabir1240/RainCheck)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kabir1240&repo=TriviaApp&theme=dark)](https://github.com/Kabir1240/TriviaApp)
 
 ---
 #### 📈 MY GITHUB STATS
