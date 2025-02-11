@@ -15,7 +15,7 @@ I'm **Kabir**. I recently graduated from Monash University with a Bachelor's in 
 ## Technologies
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py,java,cs,js,ts,react,mysql,regex,haskell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cs,js,ts,css,react,mysql,regex,haskell)](https://skillicons.dev)
 
 ### Tools, OS and platforms where I usually do my work
 [![Languages](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,tailwind,eclipse,unity,androidstudio,anaconda,flask,selenium,firebase,mongodb,sqlite,github,gitlab,linux,ubuntu,windows,bash,powershell,bots)](https://skillicons.dev)
