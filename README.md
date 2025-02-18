@@ -4,7 +4,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Kabir**. I recently graduated from Monash University with a Bachelor's in Computer Sciences. Since then, I've been trying to grow my portfolio and enhance my coding and analytical skills as much as I can.
+I'm **Kabir**. I hold a Bachelor’s in Computer Science from Monash University and have since been dedicated to expanding my portfolio and honing my skills in software development. With experience in React, Python, JavaScript, C#, and Django, I focus on full-stack development while continuously improving my coding and analytical abilities. I'm passionate about solving real-world problems and staying up-to-date with new technologies to deliver scalable and maintainable solutions.
 
 ## Connect with Me
 
